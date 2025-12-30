@@ -30,6 +30,6 @@ print("Model loaded successfully!")
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
 
 with torch.no_grad():
-    generated = model.generate(context, max_new_tokens=20000)
+    generated = model.generate(context, max_new_tokens=1000)
 print("\n--- Generated Text ---\n")
 print(decode(generated[0].tolist()))
