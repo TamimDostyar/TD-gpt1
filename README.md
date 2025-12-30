@@ -23,3 +23,7 @@ Here is a sample answer:
       a mistress of the people! make me you good.
 
 I will be fine-tuning this on a personalized conversation and will create a different repository to push. 
+
+Here is the reference paper for this AI Model:
+
+    https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
