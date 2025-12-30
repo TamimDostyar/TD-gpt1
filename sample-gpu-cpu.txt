@@ -1,0 +1,43 @@
+____________________________________
+output on CPU with lower parameters:
+____________________________________
+ADY JALUCH:
+If ap you is to are of lier
+For fratte to haw my joy's lifess somelf
+Die, show agrapper in can is nothiat: are?
+
+EDWARDUKE OW:
+Hon'd is to cond and brict id make the his death, have indoes
+wart dee
+Offerl the griequar ptile soin?
+
+CAMILLA:
+Sir, capencon
+And in mistaius. 'Well comiors is have ome to coye lory:
+Ay cantord Lork'd thou fise,
+When it gend nevines. I a joisign of yed,
+Yould me, the mosies charge of than me.
+
+OFse:
+I been Vet bleep farlowst. I grow near,
+True, by of art tde
+
+____________________________________
+Below is the output for GPU with a bit higher parameters:
+____________________________________
+generated text: 
+BUCKINGHAM:
+Good morrow, tender-born, for revenue,
+Corioli, temperately for a sentence,
+For common to cunning Barbardy Minolanus.
+At Bolingbroke's pack- sad by the westerd
+The crown loss the wood of time of edges
+And chrons: the days the house of life, swant hence,
+how is a foul substina creature, from time
+I clear'd me from time all of fiery spice,
+My dagger and already, and tongue is set
+My head, approaches, 'She is much cool''? not she
+Hath here already like you!
+
+LEONTES:
+What my master? 'ti
