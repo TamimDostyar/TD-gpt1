@@ -27,3 +27,8 @@ I will be fine-tuning this on a personalized conversation and will create a diff
 Here is the reference paper for this AI Model:
 
     https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+
+Here is the improved version of this model:
+
+    https://github.com/TamimDostyar/TD-gpt1-fineTuned
