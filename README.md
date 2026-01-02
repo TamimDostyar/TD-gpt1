@@ -31,4 +31,4 @@ Here is the reference paper for this AI Model:
 
 Here is the improved version of this model:
 
-    https://github.com/TamimDostyar/TD-gpt1-fineTuned
+    https://github.com/TamimDostyar/TD_GPT
